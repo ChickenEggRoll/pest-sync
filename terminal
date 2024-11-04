@@ -1,0 +1,2 @@
+npm install @heroicons/react @headlessui/react chart.js react-chartjs-2 @react-google-maps/api -D @types/chart.js 
+npm run dev 
